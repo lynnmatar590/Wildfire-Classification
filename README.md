@@ -80,6 +80,20 @@ The experimental windows include the ignition day and post-ignition observations
 
 Evaluation uses an undersampled, balanced dataset; performance may differ under the natural class distribution.
 
+## Streamlit Demo
+
+### Fire Prediction
+![Fire prediction](Screenshots/LSTM.png)
+
+### No-Fire Prediction
+![No-fire prediction](Screenshots/RandomForest.png)
+
+### Feature Explorer
+![Feature explorer](Screenshots/FeatureExplorer.png)
+
+### Model Comparison
+![Model comparison](Screenshots/ModelComparison.png)
+
 ## Project Context
 
 Developed for the Artificial Intelligence course at Antonine University.
