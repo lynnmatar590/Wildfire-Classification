@@ -83,11 +83,10 @@ Evaluation uses an undersampled, balanced dataset; performance may differ under 
 ## Streamlit Demo
 
 ### Fire Prediction
-![Fire prediction](Screenshots/LSTM.png)
+![Fire prediction](Screenshots/RandomForest.png)
 
 ### No-Fire Prediction
-![No-fire prediction](Screenshots/RandomForest.png)
-
+![No-fire prediction](Screenshots/LSTM.png)
 ### Feature Explorer
 ![Feature explorer](Screenshots/FeatureExplorer.png)
 
